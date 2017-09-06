@@ -1,0 +1,11 @@
+10
+Lippens	120	350
+Golden_Lippens	110	375
+Tommy_Atkins	120	75
+Keitt	115	275
+Nam_Doc_Mai	120	330
+Alfonso	125	340
+Ataulfo	122	320
+Valencia_Pride 123	335
+Edward	130	325
+Fairchild	125	360
